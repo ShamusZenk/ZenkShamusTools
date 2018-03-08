@@ -1,0 +1,9 @@
+Package: ZenkShamusTools
+Title: Tools to help pass STAT 3701
+Version: 0.0.0.9000
+Authors@R: person("Shamus", "Zenk", email = "zenkx055@umn.edu", role = c("aut", "cre"))
+Description: THis packages has a number of tools and reads data, all of whihc will be useful in STAT 3701
+Depends: R (>= 3.3.1)
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
